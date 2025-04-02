@@ -1,0 +1,17 @@
+// I created an array of my 3 favorite singers
+let favSingers = ['Sam Shoaf', 'Daniel Caesar', 'Frank Ocean'];
+                       0               1               2
+// I displayed the first singer in the array using index notation.
+console.log(favSingers[0]);  // Sam Shoaf
+
+// I created an array of my 4 favorite numbers
+let favNumbers = [5, 9, 12, 25];
+
+// I created an array named mixedArr and stored different data types 
+let mixedArr = ['John Doe', ['Banana'], 123, true];
+                    0            1       2     3
+// Access and log each item in the mixedArr using array index notation
+console.log(mixedArr[0]);  // Output: John Doe
+console.log(mixedArr[1]);  // Output: ['Banana']
+console.log(mixedArr[2]);  // Output: 123
+console.log(mixedArr[3]);  // Output: true
